@@ -6,7 +6,7 @@ This project implements a handwritten digit recognition system using an Artifici
 The project uses the MNIST dataset, which consists of 60,000 training images and 10,000 testing images of handwritten digits. The dataset is available from Yann LeCun’s website or can be directly loaded using libraries such as TensorFlow or PyTorch.
 
 ## Acknowledgements
-MNIST Dataset
-TensorFlow
-Keras
+MNIST Dataset, 
+TensorFlow, 
+Keras, 
 Scikit-learn
